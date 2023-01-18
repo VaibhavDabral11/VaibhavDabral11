@@ -2,12 +2,11 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdabral11&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdabral11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavdabral11" alt="vaibhavdabral11" /></a> </p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right" >
 
 - 🔭 I’m currently working on [Gym Website](https://github.com/VaibhavDabral11/Gym-website)
 
-- 🌱 I’m currently working with **nodejs , mysql , Reactjs , json , typescript , Rest API and many more .**
+- 🌱 I’m currently working with **nodejs,Reactjs, typescript, Rest API .**
 
 - 👯 I’m looking to collaborate on **Backend**
 
@@ -16,8 +15,6 @@
 - 💬 Ask me about **nodejs , json , typescript and Rest API**
 
 - 📫 How to reach me **vaibhavdabral1@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhav-dabral-7a435b1bb/](https://www.linkedin.com/in/vaibhav-dabral-7a435b1bb/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/VaibhavDabral11"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="VaibhavDabral11" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdabral11&show_icons=true&locale=en&layout=compact" alt="vaibhavdabral11" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdabral11&show_icons=true&locale=en&layout=compact" alt="vaibhavdabral11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavdabral11&show_icons=true&locale=en" alt="vaibhavdabral11" /></p>
 
